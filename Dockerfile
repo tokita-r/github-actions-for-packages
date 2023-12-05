@@ -1,3 +1,3 @@
-# Your Dockerfile contents go here!
+# demo docker file
 FROM nginx:1.20.1
 COPY . /usr/share/nginx/html
